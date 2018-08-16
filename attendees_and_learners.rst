@@ -363,3 +363,5 @@ I followed the tutorial online
 * Leticia Ulloa
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
+* Arek - https://github.com/narczi
+* Takie tam nowe zmiany
